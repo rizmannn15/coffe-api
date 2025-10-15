@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "nama": "Caffè Latte",
+    "deskripsi": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffè latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
+    "thumbnail": "https://raw.githubusercontent.com/yourusername/coffee-assets/main/images/caffe_latte_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/yourusername/coffee-assets/main/images/caffe_latte_poster.jpg"
+  },
+  {
+    "id": "2",
+    "nama": "Cappuccino",
+    "deskripsi": "Espresso with steamed milk, topped with a deep layer of foam.",
+    "thumbnail": "https://raw.githubusercontent.com/yourusername/coffee-assets/main/images/cappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/yourusername/coffee-assets/main/images/cappuccino_poster.jpg"
+  },
+  {
+    "id": "3",
+    "nama": "Caffè Mocha",
+    "deskripsi": "Espresso with bittersweet mocha sauce and steamed milk, topped with sweetened whipped cream. Delightful.",
+    "thumbnail": "https://raw.githubusercontent.com/yourusername/coffee-assets/main/images/caffe_mocha_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/yourusername/coffee-assets/main/images/caffe_mocha_poster.jpg"
+  },
+  {
+    "id": "4",
+    "nama": "Caramel Macchiato",
+    "deskripsi": "Espresso combined with vanilla-flavoured syrup, milk and caramel sauce over ice. A Starbucks classic, chilled for a classic summer's day. To our signature espresso we add a creamy mix of vanilla syrup and cold milk poured over ice; it's then topped with our proprietary buttery caramel sauce. Sweet!",
+    "thumbnail": "https://raw.githubusercontent.com/yourusername/coffee-assets/main/images/caramel_macchiato_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/yourusername/coffee-assets/main/images/caramel_macchiato_poster.jpg"
+  },
+  {
+    "id": "5",
+    "nama": "Vanilla Sweet Cream Cold Brew",
+    "deskripsi": "Just before serving, our slow-steeped Cold Brew is topped with a delicate float of house-made vanilla sweet cream that cascades throughout the cup.",
+    "thumbnail": "https://raw.githubusercontent.com/yourusername/coffee-assets/main/images/vanilla_sweet_cream_cold_brew_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/yourusername/coffee-assets/main/images/vanilla_sweet_cream_cold_brew_poster.jpg"
+  },
+  {
+    "id": "6",
+    "nama": "Cold Brew",
+    "deskripsi": "Slow-steeped, small-batch and super smooth. To create our signature recipe, our team spent months experimenting with different brew times and coffee varietals. We specifically developed the Starbucks® naturally sweet flavor created during the cold brewing process.",
+    "thumbnail": "https://raw.githubusercontent.com/yourusername/coffee-assets/main/images/cold_brew_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/yourusername/coffee-assets/main/images/cold_brew_poster.jpg"
+  },
+  {
+    "id": "7",
+    "nama": "Mango Passion Frappuccino",
+    "deskripsi": "A tropical mango and passionfruit infusion, perfectly blended with a fruity hibiscus tea and ice.",
+    "thumbnail": "https://raw.githubusercontent.com/yourusername/coffee-assets/main/images/mango_passion_frappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/yourusername/coffee-assets/main/images/mango_passion_frappuccino_poster.jpg"
+  },
+  {
+    "id": "8",
+    "nama": "Raspberry Currant Frappuccino",
+    "deskripsi": "Made with freshly brewed Teavana® tea, blended juice and ice.",
+    "thumbnail": "https://raw.githubusercontent.com/yourusername/coffee-assets/main/images/raspberry_currant_frappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/yourusername/coffee-assets/main/images/raspberry_currant_frappuccino_poster.jpg"
+  },
+  {
+    "id": "9",
+    "nama": "Coffee Frappuccino",
+    "deskripsi": "Starbucks® coffee is blended with nonfat milk and ice for a sip on the light side.",
+    "thumbnail": "https://raw.githubusercontent.com/yourusername/coffee-assets/main/images/coffee_frappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/yourusername/coffee-assets/main/images/coffee_frappuccino_poster.jpg"
+  },
+  {
+    "id": "10",
+    "nama": "Mocha Frappuccino",
+    "deskripsi": "Mocha sauce, Frappuccino® roast coffee, milk and ice all come together for a mocha flavor that'll leave you wanting more.",
+    "thumbnail": "https://raw.githubusercontent.com/yourusername/coffee-assets/main/images/mocha_frappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/yourusername/coffee-assets/main/images/mocha_frappuccino_poster.jpg"
+  }
+]
